@@ -23,7 +23,7 @@
 - Python 🐍 | Java ☕ | C  
 
 ### 🌐 Web Development  
-- HTML5, CSS3  
+- HTML5, CSS3, Javascript
 - Django Framework  
 - Bootstrap (basic)  
 
@@ -42,26 +42,6 @@
 - Windows & Linux basics  
 
 ---
-
-## 📌 Featured Projects  
-
-### 🔹 [JobSet](https://github.com/ishantiwariii/JobSet)  
-*A job portal built using Django & SQLite where users can register, apply for jobs, and track applied jobs. Includes admin backend & scraping support.*  
-- ✅ User Authentication (Login/Register)  
-- ✅ Profile & Applied Jobs Section  
-- ✅ Job Scraping (Internshala, Remote OK etc.)  
-- ✅ SQLite Database Integration  
-
----
-
-### 🔹 [FakeOut](https://github.com/ishantiwariii/FakeOut)  
-*A fake product review detection system using Django, Regex, and BeautifulSoup.*  
-- ✅ Direct review input (text analysis)  
-- ✅ Regex-based fake review detection  
-- ✅ Simple UI built on Django  
-
----
-
 ## 📊 GitHub Stats  
 
 ![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishantiwariii&show_icons=true&theme=radical)  
