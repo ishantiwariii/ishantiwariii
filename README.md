@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ishan Tiwari
+# 👋 Hi, I'm Ishan Kumar Tiwari
 
 Hi! I’m **Ishan Tiwari**, a second-year BCA student at **Shri Ramswaroop Memorial College of Management, Lucknow**.
 
