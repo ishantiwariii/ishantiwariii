@@ -11,18 +11,6 @@ I’m passionate about applying my skills to **solve problems, build efficient s
 ## 🛠 Skills
 
 - **Languages:** Python 🐍 | Java ☕ | C  
-- **Web Development:** HTML, CSS, Django  
+- **Web Development:** HTML, CSS, Django , flask 
 - **Data Science & Tools:** NumPy, Pandas  
 - **Other Skills:** Git, Data Structures & Algorithms, AI/ML fundamentals  
-
----
-
-## 📊 GitHub Stats
-
-![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishantiwariii&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishantiwariii&layout=compact&theme=radical)  
-
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=ishantiwariii&color=blueviolet)
