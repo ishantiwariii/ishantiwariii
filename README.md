@@ -13,4 +13,4 @@ I’m passionate about applying my skills to **solve problems, build efficient s
 - **Languages:** Python 🐍 | Java ☕ | C  
 - **Web Development:** HTML, CSS, Django , flask 
 - **Data Science & Tools:** NumPy, Pandas  
-- **Other Skills:** Git, Data Structures & Algorithms, AI/ML fundamentals  
+- **Other Skills:** Git, Data Structures & Algorithms, AI/ML fundamentals,
