@@ -52,26 +52,21 @@ I love experimenting with new technologies, creating web applications, and explo
 - AI/ML Fundamentals  
 
 ### 📘 Currently Learning  
-- OpenCV  
-- API Integration  
-- Mathematics for Machine Learning  
+- Gen AI -langchain
+- Machine learning
+- API Integration    
 
 ---
 
 ## 🚀 What I’m Working On  
 - Building **Flask** and **Django** projects with integrated APIs  
-- Exploring **computer vision** using **OpenCV**  
-- Strengthening my **mathematical and algorithmic foundation** for future ML work  
-- Developing **efficient, user-focused, and data-driven** applications  
+- Exploring **machine learning**  
+- Strengthening my **mathematical and algorithmic foundation** 
+- Developing **efficient, user-focused, and data-driven** applications
+- learning and developing ai based web apps through **Langchain**
 
 ---
 
-## 🎯 Goals  
-
-- Master **Mathematics for Machine Learning**  
-- Build strong fundamentals in **AI and Computer Vision**  
-- Create impactful **real-world projects** that solve meaningful problems  
-- Become an adaptable and logical **AI/ML programmer**  
 
 ---
 <p align="center">
